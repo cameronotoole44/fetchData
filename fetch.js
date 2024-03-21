@@ -32,7 +32,7 @@ function updateDOM(data) {
 }
 
 async function main() {
-    const userData = await getData('cameronotoole')
+    const userData = await getData('cameronotoole44')
 
     updateDOM(userData)
 }
